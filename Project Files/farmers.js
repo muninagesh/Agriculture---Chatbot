@@ -1,0 +1,1 @@
+const farmers=[{"name": "Ramesh", "crop": "Rice", "location": "AP"}, {"name": "Suresh", "crop": "Wheat", "location": "TS"}]
